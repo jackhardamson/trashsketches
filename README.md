@@ -1,2 +1,0 @@
-# trashsketches
-- contains projects
